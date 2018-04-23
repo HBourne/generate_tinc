@@ -5,8 +5,9 @@ Create tinc configs locally through http.
 ### Locally
 Run generate.sh directly with params at the top figured out and comment out the git part below.
 
+------------------------------------------
+
 ### HTTP
-=============
 #### Step 1
 Run httpgenerator.py on the server.
 > python httpgenerator.py [port]
